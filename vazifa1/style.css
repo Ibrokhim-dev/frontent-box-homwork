@@ -1,0 +1,33 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+
+}
+
+
+.container{
+   width: 1200px;
+}
+
+
+/************ header start */
+
+header{
+   display: flex;
+}
+
+
+/* nav start */
+nav{
+   display: flex;
+   
+}
+.nav-item{
+   display: flex;
+}
+
+/* nav and */
+
+/* header and */
